@@ -68,7 +68,7 @@ public class PlayerController : MonoBehaviour
 
     private void ChangeSprite(Sprite state)
     {
-        sprd.sprite = state;
+        //sprd.sprite = state;
     }
 
     private void Sensor()
